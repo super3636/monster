@@ -1,0 +1,11 @@
+
+.App{
+    font-weight:bold;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family:'Bigelow Rules';
+    font-size:72px;
+    color:#0ccac4;
+}
